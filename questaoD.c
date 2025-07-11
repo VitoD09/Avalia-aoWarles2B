@@ -12,4 +12,5 @@ int main() {
 
     //saida de dados 
     printf("A temperatura em fahrenheit e %2f ",fahren);
+    return 0;
   }
