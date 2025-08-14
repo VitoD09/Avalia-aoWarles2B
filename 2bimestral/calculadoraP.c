@@ -53,7 +53,6 @@ int main(){
         scanf("%d",&valor2);
 
         divisao = valor1 / valor2;
-        //resto = valor1 % valor2;
         printf("Resultado = %d \n", divisao);
         break;
     default:
