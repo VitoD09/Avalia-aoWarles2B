@@ -54,7 +54,7 @@ int main(){
 
         divisao = valor1 / valor2;
         //resto = valor1 % valor2;
-        printf("Resultado = %2f \n", divisao);
+        printf("Resultado = %d \n", divisao);
         break;
     default:
         printf("O valor inserido nao corresponde a uma operaçao por favor informe um valor possivel");
